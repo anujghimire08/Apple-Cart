@@ -1,7 +1,12 @@
-#  AppleCart – iPhone 17 Pro Shopping Page
+# AppleCart – iPhone 17 Pro Shopping Page
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+## 🌟 Live Demo
+
+Check the website live here:  
+[🔗 Live Preview](https://anujghimire08.github.io/Apple-Cart/)
 
 A responsive clone of an Apple iPhone 17 Pro Max product page. Built with **HTML** and **CSS**, featuring a product display, order summary, and interactive buttons for adding to cart and placing an order. This project mimics the clean, dark-themed Apple Store style.
 
